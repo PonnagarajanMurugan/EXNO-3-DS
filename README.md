@@ -1,5 +1,9 @@
 # EX NO:3-Feature Encoding and Transformation
-
+```
+NAME : PON NAGARAJAN M
+DEPT : CSE
+REG NO : 212222040115
+```
 ## AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
